@@ -24,3 +24,10 @@ Data Source: A simulated dataset of online sales transactions for a retail compa
 3. Peak months: January, March, and November drive the highest profits.
 
 
+# Conclusion
+The dashboard delivers a single source of truth for sales performance. It highlights clothing as the most profitable category, strong regional markets, and seasonal trends.
+Recommendations:
+1. Boost marketing and stock for Clothing.
+2. Strengthen presence in Uttar Pradesh & Punjab.
+3. Plan campaigns around Jan, Mar, Nov.
+4. Investigate low performance in Electronics & Furniture.
