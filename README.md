@@ -5,8 +5,8 @@ The goal was to help stakeholders track KPIs (Sales, Profit, Orders, Profit Marg
 # DataSet Used
 Data Source: A simulated dataset of online sales transactions for a retail company in India.
 •	Key Fields:
-1.Order Details: Order ID, Order Date, Customer ID.
-2.Product Details: Category (Clothing, Electronics, Furniture), Sub-Category (e.g., Saree, Phones, Chairs).
+1. Order Details: Order ID, Order Date, Customer ID.
+2. Product Details: Category (Clothing, Electronics, Furniture), Sub-Category (e.g., Saree, Phones, Chairs).
 
 <a href='https://github.com/Tanveer2507/Data-Analysis-Dashboard/blob/main/Details.csv'>Details.csv</a>
 
