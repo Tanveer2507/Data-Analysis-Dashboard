@@ -36,4 +36,3 @@ Recommendations:
 2. Strengthen presence in Uttar Pradesh & Punjab.
 3. Plan campaigns around Jan, Mar, Nov.
 4. Investigate low performance in Electronics & Furniture.
-5. Dashboard Intraction: <a href='https://github.com/Tanveer2507/Data-Analysis-Dashboard/blob/main/Online%20Sales%20Dashboard.pdf'>View Dashboard</a>
