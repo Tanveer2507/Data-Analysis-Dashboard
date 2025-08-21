@@ -25,6 +25,8 @@ Data Source: A simulated dataset of online sales transactions for a retail compa
 
 # Dashboard
 <img width="2767" height="1600" alt="Online Sales Dashboard-1" src="https://github.com/user-attachments/assets/0a2f1cd5-e549-4c5d-b0ba-0e3555153b2f" />
+<img width="2767" height="1600" alt="Online Sales Dashboard-2" src="https://github.com/user-attachments/assets/cfebe9c7-5824-496e-8cac-82322c26a8d9" />
+<img width="2767" height="1600" alt="Online Sales Dashboard-3" src="https://github.com/user-attachments/assets/af784b2b-ea35-43e8-8c30-010cbeba65d7" />
 
 
 # Conclusion
