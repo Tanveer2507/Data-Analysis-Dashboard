@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Power BI, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+# Online-Sales-Data-Analysis (Intractive Dashboard creating using Power BI
+# Project Objective
+The goal was to help stakeholders track KPIs (Sales, Profit, Orders, Profit Margin), analyze trends by time, geography, and product category, and identify high-performing vs. underperforming areas for better marketing, sales, and inventory planning.
+
