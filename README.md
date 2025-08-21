@@ -23,6 +23,9 @@ Data Source: A simulated dataset of online sales transactions for a retail compa
 2. Uttar Pradesh & Punjab are top-performing states; Delhi & Chandigarh lead among cities.
 3. Peak months: January, March, and November drive the highest profits.
 
+# Dashboard
+<img width="2767" height="1600" alt="Online Sales Dashboard-1" src="https://github.com/user-attachments/assets/0a2f1cd5-e549-4c5d-b0ba-0e3555153b2f" />
+
 
 # Conclusion
 The dashboard delivers a single source of truth for sales performance. It highlights clothing as the most profitable category, strong regional markets, and seasonal trends.
