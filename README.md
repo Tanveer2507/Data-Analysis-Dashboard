@@ -20,9 +20,7 @@ Data Source: A simulated dataset of online sales transactions for a retail compa
 
 # Insights
 1.Clothing dominates with ₹488K profit (60% share).
-
 2.Uttar Pradesh & Punjab are top-performing states; Delhi & Chandigarh lead among cities.
-
 3.Peak months: January, March, and November drive the highest profits.
 
 
